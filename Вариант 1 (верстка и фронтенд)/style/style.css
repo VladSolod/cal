@@ -1,0 +1,51 @@
+body {
+  max-width: 1200px;
+  font-family: "Geometria";
+}
+.cr-1 {
+  display: block;
+  margin-left: 100px;
+}
+.cr-2 {
+  display: block;
+  margin-left: 500px;
+  margin-top: -520px;
+}
+.cr-3 {
+  display: block;
+  margin-left: 900px;
+  margin-top: -520px;
+}
+.cr-4 {
+  display: block;
+  margin-left: 100px;
+}
+.cr-5 {
+  display: block;
+  margin-left: 500px;
+  margin-top: -520px;
+}
+.cr-6 {
+  display: block;
+  margin-left: 900px;
+  margin-top: -530px;
+}
+.cr-7 {
+  display: block;
+  margin-left: 100px;
+  margin-top: -10px;
+}
+.cr-8 {
+  display: block;
+  margin-left: 500px;
+  margin-top: -530px;
+}
+.cr-9 {
+  display: block;
+  margin-left: 900px;
+  margin-top: -510px;
+}
+.cr-10 {
+  display: block;
+  margin-left: 500px;
+}
