@@ -49,3 +49,8 @@ body {
   display: block;
   margin-left: 500px;
 }
+
+.carousel-item img {
+  height: 500px; /* Установите желаемую высоту слайдера */
+  object-fit: cover; /* Обеспечивает масштабирование изображения без искажения пропорций */
+}
